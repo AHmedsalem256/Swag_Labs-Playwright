@@ -30,10 +30,7 @@ Playwright-Project/
 🛠️ Installation
 
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into project
-cd your-repo-name
+git clone https://github.com/AHmedsalem256/Swag_Labs-Playwright.git
 
 # Install dependencies
 npm install
