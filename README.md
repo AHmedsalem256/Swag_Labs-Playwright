@@ -1,2 +1,5 @@
-# Swag_Labs-Playwright
-End-to-end test automation framework using Playwright with Page Object Model (POM). Covers login, inventory, cart, and checkout workflows on SauceDemo. Includes positive and negative test cases with cross-browser support for reliable automation.
+#Playwright Test Automation – SauceDemo
+
+🚀 End-to-end test automation framework built with Playwright
+ using the Page Object Model (POM).
+This project automates SauceDemo web application workflows, covering login, inventory, cart, and checkout features.
